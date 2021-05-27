@@ -31,16 +31,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "js-num-formatter",
+  "name": "js-num-prettier",
   "author": "Sumeesh Nagisetty",
-  "module": "dist/js-num-formatter.esm.js",
+  "module": "dist/js-num-prettier.esm.js",
   "size-limit": [
     {
-      "path": "dist/js-num-formatter.cjs.production.min.js",
+      "path": "dist/js-num-prettier.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/js-num-formatter.esm.js",
+      "path": "dist/js-num-prettier.esm.js",
       "limit": "10 KB"
     }
   ],
